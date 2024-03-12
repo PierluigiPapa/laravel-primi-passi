@@ -8,7 +8,7 @@
 <body>
     
 <h1>Hello World</h1>
-<h2>Mi chiamo: {{$name}}</h3>
+<h2>Mi chiamo: {{$name}}</h2>
 
 </body>
 </html>
